@@ -1,0 +1,15 @@
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\bin\Debug\P1_Genpact.exe.config
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\bin\Debug\P1_Genpact.exe
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\bin\Debug\P1_Genpact.pdb
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.csproj.AssemblyReference.cache
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.CarpetaRaiz.resources
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.Form1.resources
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.Properties.Resources.resources
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.csproj.GenerateResource.cache
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.csproj.CoreCompileInputs.cache
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.exe
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.pdb
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.Procesado.resources
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.NoAplicable.resources
+C:\Users\Henry Peralta\Pictures\Genpact\P1 Genpact\P1_Genpact\P1_Genpact\obj\Debug\P1_Genpact.csproj.ResolveComReference.cache
